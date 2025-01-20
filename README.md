@@ -2,17 +2,6 @@
 
 # Housing Information Scrapping
 
-
-- [LinkedIn - Rajarshi Roy](https://www.linkedin.com/in/rajarshi-roy-learner/)
-  
-- [Github - Rajarshi Roy](https://github.com/Rajarshi12321/)
-
-- [Medium - Rajarshi Roy](https://medium.com/@rajarshiroy.machinelearning)
-  
-- [Kaggle - Rajarshi Roy](https://www.kaggle.com/rajarshiroy0123/)
-- [Mail - Rajarshi Roy](mailto:royrajarshi0123@gmail.com)
-- [Personal-Website - Rajarshi Roy](https://rajarshi12321.github.io/rajarshi_portfolio/)
-
 ## About The Project
 
 Welcome to the Housing Information Scrapping repository! This project focuses on scraping features of houses from Magicbricks.com using SCRAPY and SELENIUM. The goal is to scrape this data and generate a dataset to analyze the housing prices and also make House price predicting models based on real and recent scraped data.
